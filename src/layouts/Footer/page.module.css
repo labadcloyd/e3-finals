@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+ 
+  background-color: #fff;
+  margin-top: 40px;
+}
+.container {
+  max-width: 1080px;
+  width: 100%;
+  padding: 12px 0;
+}

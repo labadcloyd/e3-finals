@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: center;
   width: 100%;
-  padding: 40px 0;
+  padding: 40px 0 0 0;
 }
 .container {
   max-width: 1080px;
@@ -17,4 +17,11 @@
 
 .container h5 {
   margin-top: 40px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
